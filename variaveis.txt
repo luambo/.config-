@@ -1,0 +1,27 @@
+Variáveis:
+
+* Religião, Raça, Sexo, Profissão -> Qualitativas Nominais.
+
+* Grau de Instrução, Tipo de Lesão, Estado Civil -> Qualitativas Ordinais.
+
+* Morfina, Altura -> Quantitativas Contínuas.
+
+* Idade Paciente, Morfina Auto-Administrada -> Quantitativas Discretas.
+
+----------------------------------------------------------------------------------------
+*Quantidade de morfina auto-administrada. (diferênça em mg entre a quantidade
+colacada no reservatório e a quantidade encontrada no retorno). --> Quantitativo Contínuo.
+
+* Grau de satisfação com o tratamento avaliado por meio do questionário de satisfação
+McGill --> Quantitativo Discreto.
+
+*Intensidade da dor avaliada por meio da escala analógica visual (EAV – valor entre 0 e
+10) --> Quantitativo Discreto.
+
+*Intensidade da dor avaliada por meio do questionário de McGill (soma em pontos dos
+fatores descritores) --> Qualitativo Ordinal.
+
+*Intensidade da dor avaliada por meio do questionário de McGill (soma em pontos dos
+fatores descritores) --> Quantitativo Discreto
+
+*Concentração quantificada da morfina no cabelo (ng por cm de cabelo). --> Quantitativo Discreto.
