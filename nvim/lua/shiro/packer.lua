@@ -7,5 +7,6 @@ return require('packer').startup(function(use)
   use 'olivercederborg/poimandres.nvim'
   use 'catppuccin/nvim'
   use 'haishanh/night-owl.vim'
+  use {'neoclide/coc.nvim', branch = 'master', run = 'yarn install --frozen-lockfile'} 
   use 'neovim/nvim-lspconfig' -- Configurations for NVIM LSP
   end)
