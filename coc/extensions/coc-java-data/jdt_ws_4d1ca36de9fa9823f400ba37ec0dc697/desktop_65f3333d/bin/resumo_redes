@@ -1,0 +1,24 @@
+Protocol and standards
+
+Protocol -> communication between two people or two devices, needs to follow the same protocol.
+        -> Set of rules that governs communication.
+
+    Syntax: structure or format of data. ( simple protocol expects: 1ª 8 bits sender, 2ª 8 bits receiver, rest: message) 
+    
+    Semantics: meaning of each section of bits.
+
+    Timing: 2 characteristics: when data should be sent, how fast it can be sent.
+
+
+
+OSI MODEL > Layered framework for the DESIGN OF NETWORK systems. Contains 7 separate but related and ordered layers.
+
+    Layer 1 Physical
+    Layer 2 Data link
+    Layer 3 Network
+    Layer 4 Transport
+    Layer 5 Session
+    Layer 6 Presentation
+    Layer 7 Application
+
+

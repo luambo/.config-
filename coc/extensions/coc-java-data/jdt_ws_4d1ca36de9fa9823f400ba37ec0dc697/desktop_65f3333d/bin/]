@@ -1,0 +1,16 @@
+public class Appe{
+    int classe = 5;
+
+    public void setPreco(int p){
+        classe = p;
+    }
+
+    public int getPreco(){
+        return classe; 
+
+    }
+}
+
+
+
+

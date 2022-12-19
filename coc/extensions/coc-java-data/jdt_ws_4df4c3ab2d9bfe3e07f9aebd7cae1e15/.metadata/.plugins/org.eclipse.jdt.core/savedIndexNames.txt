@@ -1,0 +1,15 @@
+INDEX VERSION 1.132+/home/shiro/.config/coc/extensions/coc-java-data/jdt_ws_4df4c3ab2d9bfe3e07f9aebd7cae1e15/.metadata/.plugins/org.eclipse.jdt.core
+3762251980.index
+1546395293.index
+1441422719.index
+1738294475.index
+1865797976.index
+1209369328.index
+164545078.index
+1444262656.index
+2003798605.index
+3729136098.index
+1636830400.index
+1709843444.index
+996918038.index
+3842426239.index

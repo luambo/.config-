@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>jdt.ls-java-project</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/Appe.java</name>
+			<type>1</type>
+			<location>//home/shiro/desktop/javatest2/Appe.java</location>
+		</link>
+		<link>
+			<name>src/app.java</name>
+			<type>1</type>
+			<location>//home/shiro/desktop/javatest2/app.java</location>
+		</link>
+		<link>
+			<name>src/app2.java</name>
+			<type>1</type>
+			<location>//home/shiro/desktop/app2.java</location>
+		</link>
+		<link>
+			<name>src/new_projecto/App.java</name>
+			<type>1</type>
+			<location>//home/shiro/desktop/new_projecto/app/src/main/java/new_projecto/App.java</location>
+		</link>
+	</linkedResources>
+</projectDescription>
